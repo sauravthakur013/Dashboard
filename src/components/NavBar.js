@@ -44,7 +44,7 @@ function NavBar() {
         px-6 pt-2 text-white bg-brightRed 
         rounded-full self-baseline hover:bg-brightRedLight"
         >
-          Get Started
+          Get Started Now
         </a>
         <button className="md:hidden flex flex-col space-y-1 border p-1 rounded shadow "
                 onClick={handleClick}>
